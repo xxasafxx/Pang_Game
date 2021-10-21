@@ -22,7 +22,7 @@ And the build files to a zip file named
 "Pang_06"
 I am adding a link to Google Drive where the build files will also be.
 the Link .
-https://drive.google.com/drive/folders/1bWAmNS4p8U6nSSiKZdK7sue5MDJU9TeP?usp=sharing
+https://drive.google.com/file/d/1d-dnioLzSG-foq52_LvVjmEJPtknjiMk/view?usp=drivesdk
 
 If something is not understood when opening the files or one of the files does not work.
 Contact me via
